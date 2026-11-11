@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Bijoy Gboard</string>
+    <string name="ime_name">Bijoy Gboard</string>
+    <string name="subtype_bengali">বাংলা (Bijoy)</string>
+    <string name="subtype_english">English (US)</string>
+    
+    <!-- Settings Strings -->
+    <string name="settings_title">Bijoy Gboard Settings</string>
+    <string name="step_enable_title">Step 1: Enable Keyboard</string>
+    <string name="step_enable_desc">Enable Bijoy Gboard in Android on-screen keyboard settings</string>
+    <string name="step_enable_action">Enable in Settings</string>
+    
+    <string name="step_select_title">Step 2: Select Input Method</string>
+    <string name="step_select_desc">Choose Bijoy Gboard as your active input method</string>
+    <string name="step_select_action">Switch Input Method</string>
+    
+    <string name="status_enabled">Keyboard is enabled</string>
+    <string name="status_disabled">Keyboard not enabled yet</string>
+    <string name="status_active">Currently selected as default</string>
+    <string name="status_inactive">Not currently selected</string>
+    
+    <string name="section_preferences">Preferences</string>
+    <string name="pref_haptic_title">Haptic feedback on keypress</string>
+    <string name="pref_haptic_desc">Vibrate slightly when tapping a key</string>
+    <string name="pref_sound_title">Sound on keypress</string>
+    <string name="pref_sound_desc">Play subtle click sound on key tap</string>
+    <string name="pref_key_borders_title">Key borders</string>
+    <string name="pref_key_borders_desc">Show outlines around individual keys</string>
+    <string name="pref_number_row_title">Number row</string>
+    <string name="pref_number_row_desc">Always show number row on Bengali and English keyboards</string>
+    <string name="pref_height_title">Keyboard height</string>
+    <string name="pref_physical_kb_title">Physical Keyboard (USB/Bluetooth)</string>
+    <string name="pref_physical_kb_desc">Enable Bijoy character mapping on hardware keyboards</string>
+    
+    <string name="section_theme">Theme</string>
+    <string name="theme_light">Gboard Light</string>
+    <string name="theme_dark">Gboard Dark</string>
+    <string name="theme_amoled">AMOLED Pitch Black</string>
+    <string name="theme_blue">Cobalt Blue</string>
+    <string name="theme_green">Forest Mint</string>
+    
+    <string name="section_test_area">Interactive Typing Sandbox</string>
+    <string name="test_hint">Type here to test Bijoy Bengali and English typing...</string>
+    <string name="about_title">About Bijoy Gboard</string>
+    <string name="about_desc">Bijoy Gboard combines the authentic Bijoy Bengali typing layout and ligature engine with Google Gboard Material 3 design and physical keyboard support.</string>
+</resources>

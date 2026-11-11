@@ -1,0 +1,6 @@
+{
+  "name": "Bijoy Gboard",
+  "description": "Modern Bengali Android Keyboard with authentic Bijoy layout, Gboard design, and physical keyboard support",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
